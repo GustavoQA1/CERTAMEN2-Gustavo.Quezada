@@ -1,0 +1,7 @@
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\EVALUACIÓN2\bin\Debug\EVALUACIÓN2.exe.config
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\EVALUACIÓN2\bin\Debug\EVALUACIÓN2.exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\EVALUACIÓN2\bin\Debug\EVALUACIÓN2.pdb
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\EVALUACIÓN2\obj\Debug\EVALUACIÓN2.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\EVALUACIÓN2\obj\Debug\EVALUACIÓN2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\EVALUACIÓN2\obj\Debug\EVALUACIÓN2.exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\EVALUACIÓN2\obj\Debug\EVALUACIÓN2.pdb

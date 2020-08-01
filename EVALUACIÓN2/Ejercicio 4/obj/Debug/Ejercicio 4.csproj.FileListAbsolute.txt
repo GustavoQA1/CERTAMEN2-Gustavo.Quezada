@@ -1,0 +1,7 @@
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\Ejercicio 4\obj\Debug\Ejercicio 4.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\EVALUACIÓN2\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
